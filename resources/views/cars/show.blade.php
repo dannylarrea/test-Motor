@@ -9,6 +9,7 @@
       <li>Make: {{ $car->make }}</li>
       <li>Model: {{ $car->model }}</li>
       <li>Produced on: {{ $car->produced_on }}</li>
+      <li>Produced on: {{ $car->produced_on }}</li>
     </ul>
   </body>
 </html>
